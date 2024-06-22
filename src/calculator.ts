@@ -1,5 +1,6 @@
-import { add } from '../src/calculator';
+// Implementation: Add Method for Empty String:
 
-test('should return 0 for an empty string', () => {
-    expect(add("")).toBe(0);
-});
+export function add(numbers: string): number {
+    if (numbers === "") return 0;
+    return -1; // Dummy return to compile
+}
