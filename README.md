@@ -1,7 +1,7 @@
-#H1 # String_Calculator_TDD
+# H1  String_Calculator_TDD_Kata
 Input: a string of comma-separated numbers | Output: an integer, sum of the numbers
 
-##H2 Step 1: Setup
+## H2 Step 1: Setup
 
 ***Initialize a TypeScript Project:**
 
@@ -20,3 +20,5 @@ npx ts-jest config:init
      - calculator.ts
 2. tests
      - calculator.test.ts
+  
+## H2 Write Tests and Implementation
