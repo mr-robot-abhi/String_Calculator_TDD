@@ -43,9 +43,14 @@ npx ts-jest config:init
 - Custom delimiters are supported.
 - Negative numbers throw an exception, listing all negative numbers in the error message.
 
+**NOTE: Ensure all required node modules are present in the file directory before running the tests**
+
 To run the tests, you can use the following command:
 
-npx jest
+**npx jest**
+
+The sample output is displayed below:
+[/[screenshot](https://github.com/mr-robot-abhi/String_Calculator_TDD_Kata/blob/main/screenshots/Screenshot%20String_Calculator_TDD_Kata%20Output%202.png)/]
 
 ## Summary
 
