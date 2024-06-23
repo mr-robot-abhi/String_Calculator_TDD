@@ -52,3 +52,5 @@ npx jest
 By following TDD principles, we start by writing tests for the simplest functionality and then gradually build up the functionality of the 'add' method by implementing only the code necessary to pass the tests. After each test passes, we refactor the code to improve its structure without changing its behavior.
 
 The above code ensures that the 'add' method can handle various cases including empty strings, single numbers, multiple numbers, new lines as delimiters, custom delimiters, and negative number exceptions.
+
+Leave a Star and feel free to fork. 
