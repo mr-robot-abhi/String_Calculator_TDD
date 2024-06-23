@@ -50,7 +50,9 @@ To run the tests, you can use the following command:
 **npx jest**
 
 The sample output is displayed below:
-[https://github.com/mr-robot-abhi/String_Calculator_TDD_Kata/blob/main/screenshots/Screenshot%20String_Calculator_TDD_Kata%20Output%202.png]
+![Screenshot String_Calculator_TDD_Kata Output 2](https://github.com/mr-robot-abhi/String_Calculator_TDD_Kata/assets/41338114/222d85af-5913-44eb-92c8-5b6333d45546)
+
+
 
 ## Summary
 
