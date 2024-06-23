@@ -47,7 +47,7 @@ To run the tests, you can use the following command:
 
 npx jest
 
-## H2 Summary
+## Summary
 
 By following TDD principles, we start by writing tests for the simplest functionality and then gradually build up the functionality of the 'add' method by implementing only the code necessary to pass the tests. After each test passes, we refactor the code to improve its structure without changing its behavior.
 
