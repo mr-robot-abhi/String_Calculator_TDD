@@ -21,7 +21,7 @@ npx ts-jest config:init
 2. tests
      - calculator.test.ts
   
-##  Write Tests and Implementation
+##  Step 2: Write Tests and Implementation
 
 **1. src/calculator.ts:**
 
