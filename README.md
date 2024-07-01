@@ -7,13 +7,13 @@ Input: a string of comma-separated numbers | Output: an integer, sum of the numb
 
 npm init -y \
 npm install typescript ts-node @types/node --save-dev \
-npx tsc --init\
+npx tsc --init
 
 ***Setup Testing Framework:**
 Install Jest for testing.
 
 npm install jest ts-jest @types/jest --save-dev \
-npx ts-jest config:init \
+npx ts-jest config:init 
 
 ***Create Project Structure:**
 1. src
